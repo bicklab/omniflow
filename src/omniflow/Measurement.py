@@ -1,7 +1,7 @@
 import os
 import polars as pl
 import sys
-from unifier import _queries, _utils
+from omniflow import _queries, _utils
 
 
 class Measurement:
